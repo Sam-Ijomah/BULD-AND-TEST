@@ -14,3 +14,4 @@ Testing: Stage
          Test: Echo
          Blasting
          Sonography
+         Choreography
